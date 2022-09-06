@@ -11,6 +11,7 @@ You can run the example with the [Dart SDK](https://dart.dev/get-dart)
 like this:
 
 ```
+$ dart create -t server-shelf server --force
 $ dart run bin/server.dart
 Server listening on port 8080
 ```
